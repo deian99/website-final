@@ -41,17 +41,17 @@ let whatsNewPosts = {
 
 let userList = [
     {
-        userImage: '/waterman.jpg',
+        userImage: 'waterman.jpg',
         userName: 'waterman',
         userLikes: 3241
     },
     {
-        userImage: '/kiyvanov.jpg',
+        userImage: 'kiyvanov.jpg',
         userName: 'Charles Kyivanov',
         userLikes: 8565
     },
     {
-        userImage: '/deian.jpg',
+        userImage: 'deian.jpg',
         userName: 'boldura deian',
         userLikes: 1008
     },
@@ -61,7 +61,7 @@ let userList = [
         userLikes: 2185
     },
     {
-        userImage: '/chris.jpg',
+        userImage: 'chris.jpg',
         userName: 'chris jones',
         userLikes: 98
     },
