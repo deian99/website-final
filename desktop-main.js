@@ -1,8 +1,8 @@
 let navbar = document.getElementById('navbar')
-let logoImage = '/1234.jpg'
-let mainImage = '/tron-hot.jpg'
-let ndImage = '/2nd-hot.jpg'
-let rdImage = '/3rd-hot.jpg'
+let logoImage = '1234.jpg'
+let mainImage = 'tron-hot.jpg'
+let ndImage = '2nd-hot.jpg'
+let rdImage = '3rd-hot.jpg'
 
 let filters = ['ai','art','biotech','business','clothing','communication','construction','gadgets','home','privacy','production','robots','society','transport','work']
 

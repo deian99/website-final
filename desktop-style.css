@@ -191,10 +191,16 @@ body {
     width: 25%;
     height: 45vw;
     overflow-y: scroll;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
     overflow-x: hidden;
     animation: right-load var(--load-time) ease-out 0.3s;
     animation-fill-mode: forwards;
     transform: translateX(100%);
+}
+
+#whats-new::-webkit-scrollbar {
+    display: none;
 }
 
 .whats-new-city-year {
