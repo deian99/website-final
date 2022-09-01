@@ -1,8 +1,8 @@
 let navbar = document.getElementById('navbar')
-let logoImage = './1234.jpg'
-let mainImage = './tron-hot.jpg'
-let ndImage = './2nd-hot.jpg'
-let rdImage = './3rd-hot.jpg'
+let logoImage = '1234.jpg'
+let mainImage = 'tron-hot.jpg'
+let ndImage = '2nd-hot.jpg'
+let rdImage = '3rd-hot.jpg'
 
 let filters = [' &times; AI &times; ',' &times; ART &times; ',' &times; BIOTECH &times; ',' &times; BUSINESS &times; ',' &times; CLOTHING &times; ',' &times; COMMUNICATION &times; ',' &times; CONSTRUCTION &times; ',' &times; GADGETS &times; ',' &times; HOME &times; ',' &times; PRIVACY &times; ',' &times; PRODUCTION &times; ',' &times; ROBOTS &times; ',' &times; SOCIETY &times; ',' &times; TRANSPORT &times; ',' &times; WORK &times; ']
 
@@ -41,17 +41,17 @@ let whatsNewPosts = {
 
 let userList = [
     {
-        userImage: '/waterman.jpg',
+        userImage: 'waterman.jpg',
         userName: 'true waterman',
         userLikes: 3241
     },
     {
-        userImage: '/kiyvanov.jpg',
+        userImage: 'kiyvanov.jpg',
         userName: 'Charles Kyivanov',
         userLikes: 8565
     },
     {
-        userImage: '/deian.jpg',
+        userImage: 'deian.jpg',
         userName: 'boldura deian',
         userLikes: 1008
     },
@@ -61,7 +61,7 @@ let userList = [
         userLikes: 2185
     },
     {
-        userImage: '/chris.jpg',
+        userImage: 'chris.jpg',
         userName: 'chris jones',
         userLikes: 98
     },
